@@ -1,0 +1,10 @@
+.menuBar {
+    background-color: rgba(255, 166, 0, 0.801);
+    font-size: 18px;
+    display: flex;
+    height: 250px;
+}
+
+.menuBarElm {
+    height: 48px;
+}

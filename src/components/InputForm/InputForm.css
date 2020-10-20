@@ -1,0 +1,10 @@
+.InputForm {
+    margin: auto;
+    width: 350px;
+    height: 200px;
+    border: 1px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
